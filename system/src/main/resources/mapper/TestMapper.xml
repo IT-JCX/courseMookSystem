@@ -4,7 +4,7 @@
 
 
     <select id="list" resultType="com.hatha.system.domain.Test">
-select * from test
+select id,name from test
 
   　</select>
 
